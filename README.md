@@ -1,0 +1,1 @@
+# VIGI32_JS_TEST
